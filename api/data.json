@@ -1,0 +1,21 @@
+{
+  "eventos": [
+    {
+      "id:": 1,
+      "titulo": "Semana do CST em ADS",
+      "dataEvento": "2024-11-01T22:00:00.000Z",
+      "id": "82df"
+    },
+    {
+      "id:": 2,
+      "titulo": "SNCT",
+      "dataEvento": "2024-11-01T22:00:00.000Z",
+      "id": "cd72"
+    },
+    {
+      "id": "0b90",
+      "titulo": "A55",
+      "dataEvento": "2024-11-06"
+    }
+  ]
+}
